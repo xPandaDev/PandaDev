@@ -1,7 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=xPandaDev.xPandaDev&style=for-the-badge)
 [![Github](https://img.shields.io/github/followers/xPandaDev?label=Follow&style=for-the-badge&logo=github)](https://github.com/xPandaDev)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Panda<>
+<h1 align="center">&lt;h1&gtHi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Panda&lt;/h1&gt
 <p align="center">
   <a href="https://github.com/xPandaDev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Website+developer.;Open+Source+Enthusiast.;Learning+new+things+everyday."></a>
 </p>
