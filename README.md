@@ -1,9 +1,9 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=xPandaDev.xPandaDev&style=for-the-badge)
-[![Github](https://img.shields.io/github/followers/xPandaDev?label=Follow&style=for-the-badge&logo=github)](https://github.com/xPandaDev)
+![](https://visitor-badge.laobi.icu/badge?page_id=byPandaDev.byPandaDev&style=for-the-badge)
+[![Github](https://img.shields.io/github/followers/byPandaDev?label=Follow&style=for-the-badge&logo=github)](https://github.com/byPandaDev)
 
 <h1 align="center">&lt;h1&gtHi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Panda&lt;/h1&gt
 <p align="center">
-  <a href="https://github.com/xPandaDev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Website+developer.;Open+Source+Enthusiast.;Learning+new+things+everyday."></a>
+  <a href="https://github.com/byPandaDev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Website+developer.;Open+Source+Enthusiast.;Learning+new+things+everyday."></a>
 </p>
 <hr/>
 <h4 align="center">I'm a Front-End, who started to code just to explore how websites works and fall in love with it. I like to Experiment with new design and codes. I love to contribute in open source projects. </h4>
@@ -20,8 +20,8 @@
 
 <div>
   <p align="center">
- <a href="https://github-readme-stats.vercel.app/api?username=xPandaDev&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=xPandaDev&count_private=true&show_icons=true&theme=tokyonight&count-private=true&v=2" />
+ <a href="https://github-readme-stats.vercel.app/api?username=byPandaDev&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=byPandaDev&count_private=true&show_icons=true&theme=tokyonight&count-private=true&v=2" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia&count-private=true&v=2" />
@@ -31,16 +31,16 @@
 <br/>
 <div>
  <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=xPandaDev&custom_title=Panda's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Panda"  />
+   <img src="https://activity-graph.herokuapp.com/graph?username=byPandaDev&custom_title=Panda's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Panda"  />
   </p>
   <hr/>
   <br/>
   <div>
      <p align="center">
-       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xPandaDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-          <img alt="Panda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xPandaDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=byPandaDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+          <img alt="Panda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byPandaDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </a>
-      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=xPandaDev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=byPandaDev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
       </a>
     </p>
     <br/>
