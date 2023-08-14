@@ -1,99 +1,73 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=byPandaDev.byPandaDev&style=for-the-badge)
-[![Github](https://img.shields.io/github/followers/byPandaDev?label=Follow&style=for-the-badge&logo=github)](https://github.com/byPandaDev)
 
-<h1 align="center">&lt;h1&gtHi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Panda&lt;/h1&gt
-<p align="center">
-  <a href="https://github.com/byPandaDev"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Website+developer.;Open+Source+Enthusiast.;Learning+new+things+everyday."></a>
-</p>
-<hr/>
-<h4 align="center">I'm a Front-End, who started to code just to explore how websites works and fall in love with it. I like to Experiment with new design and codes. I love to contribute in open source projects. </h4>
-<br>
-
-## 🤹 My Skills
-
-- ❤ I'm a self-taught developer.
-- 🤔 Overthinker.
-- 🌐 Webdeveloper.
-- 💙 Love to contribute in open source projects. 
-
-## :trophy: My Github Stats
-
-<div>
-  <p align="center">
- <a href="https://github-readme-stats.vercel.app/api?username=byPandaDev&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=byPandaDev&count_private=true&show_icons=true&theme=tokyonight&count-private=true&v=2" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranbarbhuiya&theme=algolia&count-private=true&v=2" />
-</a>
-  </p>
+<div align="center">
+<img width="800px" height="125px" src="https://i.imgur.com/RCYnOwE.gif"/>
 </div>
+
+<h1 align="center"><span style="color: #00FFF6; font-weight: 700;">Hi there, </span><span style="color: red; font-weight: 700;">I'm</span> <a style="color: #FFE15D; font-weight: 700;" href="https://github.com/byPandaDev" target="_blank">Panda</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+## 🙋‍♂️ About Me
+
+<a href="https://github.com/byPandaDev">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Student+From+Germany"/>
+</a>
+
+<a href="https://github.com/Elkhan2003">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=I'm+a+Web+Developer"/>
+</a>
+
+<div align="center">
+  <a href="https://github.com/Elkhan2003">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/raw/master/snake.svg"
+       alt="snake" /></a>
+</div>
+
+## 🚀 Languages and Tools
+
+<p align="left">
+    <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
+    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a> 
+    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
+    <a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"> <img width="51px" src="https://img.icons8.com/color/tailwindcss.png"/> </a>
+    <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
 <br/>
-<div>
- <p align="center">
-   <img src="https://activity-graph.herokuapp.com/graph?username=byPandaDev&custom_title=Panda's%20Contribution%20Graph&theme=react-dark&count-private=true" alt="Panda"  />
-  </p>
-  <hr/>
-  <br/>
-  <div>
-     <p align="center">
-       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=byPandaDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-          <img alt="Panda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byPandaDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-      </a>
-      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=byPandaDev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
-      </a>
-    </p>
-    <br/>
-  </div>
- </div>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- <hr/>
- <br/>
 
-## Reach Me
+## 📊 My Github Stats
 
-![discord.com/app](https://discord.c99.nl/widget/theme-1/268787676600205314.png)
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/byPandaDev"><img alt="Pandas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=byPandaDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+</a>
+<a href="https://github.com/byPandaDev"><img alt="Pandas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byPandaDev&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+</a>
+</div>
 
-## 🛠️ My Skills
+<p align="center">
+    <a href="https://github.com/byPandaDev">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pandas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=byPandaDev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
 
-### Language
+##
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<a href="http://www.github.com/byPandaDev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=byPandaDev&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Commits Graph" /></a>
 
-### Frameworks, Platforms and Libraries
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Databases, Store and Cloud Hosting
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Design
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### IDEs/Editors
-  
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Tools
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-### Operating System
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+<a href="https://github.com/byPandaDev"><img alt="Panda's Top Languages" src="https://github-profile-trophy.vercel.app/?username=byPandaDev&theme=radical"/>
+</a>
+</p>
+<!-- ## 🔖 My contacts
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A)]()
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)]()
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)]()
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)]()
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)]() -->
