@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
 <img width="800px" height="125px" src="https://i.imgur.com/RCYnOwE.gif"/>
-</div>
+</div> -->
 
 <h1 align="center"><span style="color: #00FFF6; font-weight: 700;">Hi there, </span><span style="color: red; font-weight: 700;">I'm</span> <a style="color: #FFE15D; font-weight: 700;" href="https://github.com/byPandaDev" target="_blank">Panda</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
